@@ -2,7 +2,7 @@
 	"author": "guberni",
 	"name": "tellki-mysql-availability-monitor",
 	"description": "Tellki MySQL availability monitor",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"keywords": ["tellki","monitor","mysql","availability","real time"],
 	"homepage": "www.tellki.com",
 	"repository" : { 
